@@ -40,6 +40,17 @@ body {
   color: var(--accent-color);
 }
 
+.site-nav-list,
+.contacts-list,
+.features-list,
+.work-list,
+.team-section-list,
+.footer-address-list,
+.buttons,
+.portfolio-section-list {
+  list-style: none;
+}
+
 .link {
   color: var(--title-text-color);
   font-weight: 500;
