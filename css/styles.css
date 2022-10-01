@@ -135,6 +135,13 @@ body {
 .team-section {
   background-color: var(--team-background-color);
 }
+.team-section-title {
+  color: var(--title-text-color);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+}
 .team-section-box {
   background-color: var(--primary-background-color);
 }
