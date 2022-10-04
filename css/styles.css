@@ -99,6 +99,7 @@ body {
   color: var(--other-title-text-color);
   font-weight: 700;
   font-size: 16px;
+  font-family: inherit;
   line-height: 1.9;
   letter-spacing: 0.06em;
   cursor: pointer;
@@ -211,6 +212,7 @@ body {
 .portfolio-section-button {
   background-color: #f5f4fa;
   color: var(--title-text-color);
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
